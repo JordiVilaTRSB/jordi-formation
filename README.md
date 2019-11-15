@@ -117,4 +117,5 @@ Ces gabarits seront à recharter.e
 
 Mettre des petites fleurs dans le design system
 A quoi servent les interfaces (fr.cg44.plugin.socle.interfaces) ?
+Rajouter des petits oiseaux
 
