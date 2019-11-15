@@ -53,4 +53,3 @@ Permet notamment de personnaliser la liste des types de blocs à appliquer au te
 
 => Ajout du fichier configuration-styles.conf pour ajouter une liste de styles "**Formats**" à l'éditeur wysiwyg.
 ces (fr.cg44.plugin.socle.interfaces) ?
-
