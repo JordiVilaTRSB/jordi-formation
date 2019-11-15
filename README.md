@@ -20,9 +20,9 @@
 </p>
 
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
-
 Socle des contenus éditorial :
-
+Attention : les types de contenus du socle doivent être revus.
+Des modifications ont été demandées par Gaëlle.
 -	Accueil de rubrique (WelcomSection)
 -	Article de rubrique (CollectivityArticle)
 -	Article géolocalisé (ArticleGeolocalie)
@@ -117,4 +117,5 @@ Ces gabarits seront à recharter.e
 
 Mettre des petites fleurs dans le design system
 A quoi servent les interfaces (fr.cg44.plugin.socle.interfaces) ?
+Rajouter des petits oiseaux
 
