@@ -20,9 +20,9 @@
 </p>
 
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
-
 Socle des contenus éditorial :
-
+Attention : les types de contenus du socle doivent être revus.
+Des modifications ont été demandées par Gaëlle.
 -	Accueil de rubrique (WelcomSection)
 -	Article de rubrique (CollectivityArticle)
 -	Article géolocalisé (ArticleGeolocalie)
