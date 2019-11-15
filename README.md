@@ -44,8 +44,25 @@ Un nouveau type de contenu "**VideoChapitree**" a été créée pour faciliter l
 
 <h2>Et les ornythorinques c'est trop la classe</h2>
 
-+ configuration-charteconfig.conf
-+ configuration-styles.conf
+**LE GABARIT EST A REVOIR : js inclus dans le corps de la JSP + bug si plusieurs vidéos ajoutées dans un article**
+
+<b>Ca vous en bouche un coin, hein ?</b>
+
+Socle des contenus représentant le découpage territorial (synchronisés entre tous les sites depuis le site institutionnel) :
+
+-	Canton (Canton)
+-	Délégation (Delegation)
+-	Commune (City)
+-	Commune hors département (CommuneHorsDepartement)
+-	Élu (ElectedMember)
+
+<a href="google.se">Le meilleur moteur de recherche au monde !</a>
+
+# Personnalisation de l'éditeur wysiwyg et des styles wysiwyg
+
+<h2>All your git belong to us</h2>
+
+Fichiers :
 
 => Ajout du fichier configuration-charteconfig.conf pour surcharger les options de la configuration par defaut du wysiwyg.
 
